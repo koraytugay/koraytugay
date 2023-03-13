@@ -5,6 +5,7 @@
 - https://koraytugay.github.io/vanillajsship
 - https://koraytugay.github.io/vanillahangman
 - https://koraytugay.github.io/vanillatictactoe
+- https://koraytugay.github.io/guess-the-pokemon/
 
 
 
