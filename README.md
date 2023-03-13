@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- https://github.com/koraytugay/vanillafingers
+#### Vanilla Fingers
+- [Code](https://github.com/koraytugay/vanillafingers)
+- [Live](https://koraytugay.github.io/vanillafingers)
 
 
 <!--
