@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-#### Vanilla Fingers
-- [Code](https://github.com/koraytugay/vanillafingers)
-- [Live](https://koraytugay.github.io/vanillafingers)
+#### JavaScript Games
+- https://koraytugay.github.io/vanillafingers
+- https://koraytugay.github.io/vanillajsship
+- https://koraytugay.github.io/vanillahangman
+- https://koraytugay.github.io/vanillatictactoe
+
+
+
 
 
 <!--
