@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 #### JavaScript Games
-- https://koraytugay.github.io/vanillafingers
-- https://koraytugay.github.io/vanillajsship
-- https://koraytugay.github.io/vanillahangman
-- https://koraytugay.github.io/vanillatictactoe
-- https://koraytugay.github.io/guess-the-pokemon
 
-
+| Game   |      Repository Link      |
+|----------|-------------|
+| [Pokemon Fingers](https://koraytugay.github.io/pokemon-fingers/) |  [pokemon-fingers](https://github.com/koraytugay/pokemon-fingers) |
+| [Battleship](https://koraytugay.github.io/vanillajsship) | [vanilla-js-ship](https://github.com/koraytugay/vanillajsship) |
+| [Tic-Tac-Toe](https://koraytugay.github.io/vanillatictactoe)|[vanillatictactoe](https://github.com/koraytugay/vanillatictactoe)|
+| [Guess the Pokemon](https://koraytugay.github.io/guess-the-pokemon)|[guess-the-pokemon](https://github.com/koraytugay/guess-the-pokemon)|
 
 
 
