@@ -7,6 +7,7 @@
 
 | Game   |      Repository Link      |
 |----------|-------------|
+| [SameGame](https://koraytugay.github.io/same-game/) | [same-game](https://github.com/koraytugay/same-game) |
 | [Pokemon Fingers](https://koraytugay.github.io/pokemon-fingers/) |  [pokemon-fingers](https://github.com/koraytugay/pokemon-fingers) |
 | [Battleship](https://koraytugay.github.io/vanillajsship) | [vanilla-js-ship](https://github.com/koraytugay/vanillajsship) |
 | [Tic-Tac-Toe](https://koraytugay.github.io/vanillatictactoe)|[vanillatictactoe](https://github.com/koraytugay/vanillatictactoe)|
